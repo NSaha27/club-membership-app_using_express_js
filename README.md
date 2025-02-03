@@ -1,1 +1,1 @@
-# club-membership-app_using_express_js
+Here, users can apply for membership of a club, and admin will have the right to view, add, update and delete a member. Once member sign up is complete a member can log in to his account and can purchase tickets of events organised by the club.
